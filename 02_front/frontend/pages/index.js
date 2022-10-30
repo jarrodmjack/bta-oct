@@ -1,5 +1,3 @@
-import Header from '../components/Navbar'
-import User from '../components/User'
 import UserListContainer from '../components/UserListContainer'
 
 export const getStaticProps = async () => {
@@ -13,10 +11,8 @@ export const getStaticProps = async () => {
 }
 
 const ListPage = ({ users }) => {
-  console.log(users)
   return (
     <div>
-      <Header />
       <UserListContainer users={users} />
     </div>
   )
