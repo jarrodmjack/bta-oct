@@ -109,13 +109,10 @@ This is a technical assignment I am working on
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
+<!--  OPTIMIZATIONS -->
+## Optimizations
 
-<p> I am still figuring this out </p>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+- Could break down description page into separate card components
 
 
 <!-- LICENSE -->
