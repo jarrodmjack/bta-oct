@@ -14,8 +14,8 @@ const Navbar = () => {
                     <div className="dropdown dropdown-end">
                         <label tabIndex={0} className="avatar w-24 hover:rounded-full hover:cursor-pointer">
                             <div className="rounded-full">
-                                <a target='_blank' href='https://apexlegends.fandom.com/wiki/Mirage'>
-                                    <img src="images/mirage.jpg" />
+                                <a target='_blank' href='https://www.reddit.com/r/apexlegends/comments/ay44ko/when_youre_playing_solo_and_the_squad_head_in/'>
+                                    <img src="images/apexlogo.jpg" />
                                 </a>
                             </div>
                         </label>
@@ -25,5 +25,4 @@ const Navbar = () => {
         </div>
     )
 }
-
 export default Navbar
